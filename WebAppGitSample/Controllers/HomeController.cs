@@ -23,6 +23,7 @@ namespace WebAppGitSample.Controllers
 
         public ActionResult Contact()
         {
+			 // comment 2 added
             ViewBag.Message = "Your contact page.";
 
             return View();
