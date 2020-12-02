@@ -49,6 +49,11 @@ namespace WebAppGitSample.Controllers
         // GET: UserDetails/Edit/5
         public ActionResult Edit(int id)
         {
+            /*
+                 * new code added to create new user in the database 
+                 * line 1
+                 * line 2
+                 */
             return View();
         }
 
