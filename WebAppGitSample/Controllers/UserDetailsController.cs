@@ -33,7 +33,11 @@ namespace WebAppGitSample.Controllers
             try
             {
                 // TODO: Add insert logic here
-
+                /*
+                 * new code added to create new user in the database 
+                 * line 1
+                 * line 2
+                 */
                 return RedirectToAction("Index");
             }
             catch
