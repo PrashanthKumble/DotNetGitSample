@@ -15,6 +15,7 @@ namespace WebAppGitSample.Controllers
 
         public ActionResult About()
         {
+			  // comment 1 added
             ViewBag.Message = "Your application description page.";
 
             return View();
